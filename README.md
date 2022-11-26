@@ -6,6 +6,8 @@ This dashboard can be installed as an extension, overriding the newtab command.
 
 We uses asynchronus fetching to get data and dom manipulation to display it on the screen. We also use catch blocks for error handling of APIs.
 
+[Click to View!](https://ludrahsgartage.github.io/Dashboard-Chrome-Extension/)
+
 Made along with Scrimba's API Course.
 
 ## Setup the Extension
